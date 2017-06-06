@@ -37,12 +37,12 @@ echo "
      oKkNWWWX00NWX"$BLUE"doooooooo"$GREY"xXWWNk"$RED"0000"$GREY"dWWWWWWWWWWWWWWWWX               
       .cONWWWWWWWW"$BLUE"Oooooooo"$GREY"ONWWK:"$RED"000"$GREY"c0WWWWWWWWWWWWWWWWWW:              
          .;oONWWWW"$BLUE"xooooo"$GREY"dKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX.                -------------------------------------
-               XW0"$BLUE"ooooo"$GREY"kNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWd                  "$RED"Ducky BeEF XSS PWND v1.0            
+               XW0"$BLUE"ooooo"$GREY"kNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWd                           
               oW0"$BLUE"ooooo"$GREY"0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO                                                    
              ;NX"$BLUE"doood"$GREY"KWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWx                  "$WHITE"Created by: Lay Katz           
           ;xkO"$BLUE"OdooooxOO0"$GREY"KNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX.                                                    
-         .NO"$BLUE"odd"$GREY"xkkkkxxd"$BLUE"ooo"$GREY"kKWWWWWWWWWWWWWWWWWWWWWWWWWWX                   "$BLUE"ENG: Thanks to everyone who contributed  
-          :KNWWWWWWWWWWX0"$BLUE"xoo"$GREY"ONWWWWWWWWWWWWWWWWWWWWWWWk.                   "$RED"ESP: Gracias a todos que contribuyeron
+         .NO"$BLUE"odd"$GREY"xkkkkxxd"$BLUE"ooo"$GREY"kKWWWWWWWWWWWWWWWWWWWWWWWWWWX                  "
+          :KNWWWWWWWWWWX0"$BLUE"xoo"$GREY"ONWWWWWWWWWWWWWWWWWWWWWWWk.                   
          .xNXxKWWWWWWWOXWWX"$BLUE"xo"$GREY"KWWWWWWWWWWWWWWWWWWWWNk'                     
          OWl"$WHITE"1"$GREY"cNWWWWWWWk"$WHITE"1"$GREY"oNWNx"$GREY"KWWWWWWWWWWWWWWWWWNOl.                                          
         ,Wk"$WHITE"11"$GREY"xWWWWWWWWd"$WHITE"11"$GREY"x"$GREY"WWNWWWWWWWWWWWWXOdc,.                       
