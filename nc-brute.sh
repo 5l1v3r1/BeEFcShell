@@ -1,6 +1,6 @@
 #!/bin/bash
 #NC brute file transfer
-#Creator laykatz
+#Creator 0katz
 
 BLUE=$(tput setaf 075)
 GREY=$(tput setaf 0)
