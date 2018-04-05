@@ -39,7 +39,7 @@ echo "
          .;oONWWWW"$BLUE"xooooo"$GREY"dKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX.                -------------------------------------
                XW0"$BLUE"ooooo"$GREY"kNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWd                           
               oW0"$BLUE"ooooo"$GREY"0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO                                                    
-             ;NX"$BLUE"doood"$GREY"KWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWx                  "$WHITE"Created by: Lay Katz           
+             ;NX"$BLUE"doood"$GREY"KWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWx                  "$WHITE"Created by: Katz           
           ;xkO"$BLUE"OdooooxOO0"$GREY"KNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX.                                                    
          .NO"$BLUE"odd"$GREY"xkkkkxxd"$BLUE"ooo"$GREY"kKWWWWWWWWWWWWWWWWWWWWWWWWWWX                  "
           :KNWWWWWWWWWWX0"$BLUE"xoo"$GREY"ONWWWWWWWWWWWWWWWWWWWWWWWk.                   
